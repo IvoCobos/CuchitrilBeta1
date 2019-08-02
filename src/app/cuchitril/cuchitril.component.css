@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 300px;
+    min-width: 300px;
+  }
+  
+  .example-header-image {
+    background-image: url('../../assets/img/LogoS.png');
+    background-size: cover;
+  }
