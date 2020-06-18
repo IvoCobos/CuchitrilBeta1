@@ -40,7 +40,7 @@
     "@types/jasmine": "^3.3.16",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
-    "angular": "1.7.8",
+    "angular": "1.8.0",
     "angular-animate": "1.7.8",
     "angular-touch": "1.7.8",
     "bootstrap": "^4.3.1",
